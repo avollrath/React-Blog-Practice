@@ -1,0 +1,18 @@
+export const data = [
+    {   id: 0,
+        title: 'My day at Integrify',
+        category: 'Work',
+        content: 'I arrived at Integrify Academy at 9 am. Early morning, I started code review with my classmates (code mates) for about an hour.'},
+    {   id: 1,
+        title: 'My talk at React Meetup',
+        category: 'Speech',
+        content: 'I spoke at React Meetup about React and everyone loved it.'},
+    {   id: 2,
+        title: 'Fun at the beach',
+        category: 'Recreation',
+        content: 'I spent the weekend on the beach and it was great - so relaxing! I drank Mojitos, played fetch with the dogs I met there and enjoyed life.'},
+    {   id: 3,
+        title: 'Running in the forest',
+        category: 'Sport',
+        content: 'I realized that sitting in front of a computer all day long is not good for my health, so I went for a run in the forest. There I met 3 squirrels, a little deer and a racoon.'},
+]
