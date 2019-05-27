@@ -14,8 +14,8 @@ class App extends Component{
             <Header />
               <Switch>
                 <Route path="/" component={Main} exact />
-                <Route path="/post" component={Post} exact/>
-                <Route path="/post/newpost" component={NewPost} />
+                <Route path="/post/newpost" component={NewPost} exact/>
+                <Route path="/post/" component={Post} />
                 <Route component={Error} />
               </Switch>
    

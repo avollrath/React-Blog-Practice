@@ -10,7 +10,7 @@ outline: none;
 Link {
 
 
-  
+
 }
 
 body {
@@ -154,14 +154,14 @@ text-align: center;
 }
 
 .fullPost {
-  background: #35ac59;
   padding: 10px;
-  color: #fff;
+  color: #35ac59;
   margin: 10px;
 }
 
 .fullPost h2{
   text-transform: uppercase;
+  color: #35ac59;
 }
 
 .fullPost h3 {
@@ -169,5 +169,11 @@ text-align: center;
   text-transform: uppercase;
   font-size: 0.7rem;
   margin: 0;
-  color: #fff;
+  color: #35ac59;
+  }
+
+  .fullPost p{
+
+text-align: left;
+
   }
