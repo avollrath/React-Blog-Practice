@@ -7,11 +7,6 @@ outline: none;
 
 }
 
-Link {
-
-
-
-}
 
 body {
   border: 1px;
@@ -144,7 +139,7 @@ transition: 90ms ease-in-out;
 
 }
 
-.fullPosts {
+.fullPost {
 
 max-width: 40vw;
 margin: auto;
